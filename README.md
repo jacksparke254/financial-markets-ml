@@ -12,16 +12,8 @@ Leveraging the power of machine learning, I developed a Foreign Exchange Predict
 
 ## Usage
 
-- [Functions used](functions.py)
-- [Training the models](training.py)
-- [Testing the models](testing.py)
+- [Functions](functions.py)
+- [Training](training.py)
+- [Testing](testing.py)
 
-## Contributing
 
-Explain how others can contribute to your project.
-
-## License
-
-State the license under which your project is released.
-
- 
