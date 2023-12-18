@@ -12,8 +12,9 @@ Leveraging the power of machine learning, I developed a Foreign Exchange Predict
 
 ## Usage
 
-[Link to Example Code](financial-markets-ml/functions.py)
-Functions.
+[Functions used](functions.py)
+[Training the models](main.py)
+[Testing the models](Model Test.py)
 
 ## Contributing
 
