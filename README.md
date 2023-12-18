@@ -3,6 +3,8 @@ My code for my financial markets machine learning project.
 ## Table of Contents
 
 - [Functions](#functions)
+    - functions.py
+    - INDICATOR FUNCTIONS.py
 - [Training](#main)
 - [Testing](#FULLOANDATEST)
 - [License](#license)
