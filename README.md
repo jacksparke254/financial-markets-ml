@@ -12,9 +12,9 @@ Leveraging the power of machine learning, I developed a Foreign Exchange Predict
 
 ## Usage
 
-[Functions used](functions.py)
-[Training the models](main.py)
-[Testing the models](Model Test.py)
+- [Functions used](functions.py)
+- [Training the models](training.py)
+- [Testing the models](testing.py)
 
 ## Contributing
 
